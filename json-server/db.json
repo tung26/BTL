@@ -1,0 +1,123 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "fullname": "Trần Quang Tùng",
+      "email": "tranquangtung26062005@gmail.com",
+      "password": "Tung@2005",
+      "password_confirmation": "Tung@2005"
+    },
+    {
+      "id": "d003",
+      "fullname": "Doãn Hoài Nam",
+      "email": "dthdoanhoainam3125@gmail.com",
+      "password": "DoaiHaiNam",
+      "password_confirmation": "DoaiHaiNam"
+    },
+    {
+      "id": "d004",
+      "fullname": "Doãn Hoài Nam",
+      "email": "dthdoanhoainam@gmail.com",
+      "password": "Thongcute",
+      "password_confirmation": "Thongcute"
+    }
+  ],
+  "songs": [
+    {
+      "id": "1",
+      "name": "Chúng ta của hiện tại",
+      "singer": "MTP",
+      "time": "06:14",
+      "path": "../assets/songList/02-Chungtacuahientai_MTP.mp3",
+      "image": "../assets/imgSongList/02-img-chungtacuahientai.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Cause I love you",
+      "singer": "Noo Phước Thịnh",
+      "time": "06:14",
+      "path": "../assets/songList/03-CauseILoveYou-NooPhuocThinh-6400289.mp3",
+      "image": "../assets/imgSongList/03-img-causeiloveyou.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Kém duyên",
+      "singer": "Rum & NIT",
+      "time": "03:45",
+      "path": "../assets/songList/04-KemDuyen-RumNITMasew-5262918.mp3",
+      "image": "../assets/imgSongList/04-img-kemduyen.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Simple Love",
+      "singer": "Obito",
+      "time": "03:58",
+      "path": "../assets/songList/05-SimpleLove-ObitoSeachains-8359975.mp3",
+      "image": "../assets/imgSongList/05-img-simplelove.jpg"
+    },
+    {
+      "id": "5",
+      "name": "Thiên Lý ơi",
+      "singer": "Jack J97",
+      "time": "06:14",
+      "path": "../assets/songList/01-ThienLyOi-JackJ97.mp3",
+      "image": "../assets/imgSongList/01-img-thienlyoi.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Một ngày chẳng nắng",
+      "singer": "Pháo",
+      "time": "04:01",
+      "path": "../assets/songList/06-MotNgayChangNang-Phao-9400644.mp3",
+      "image": "../assets/imgSongList/06-img-motngaychangnang.jpg"
+    },
+    {
+      "id": "7",
+      "name": "Chịu cách mình nói thua",
+      "singer": "RHYDER",
+      "time": "03:13",
+      "path": "../assets/songList/07-ChiuCachMinhNoiThua-RHYDER-13731160.mp3",
+      "image": "../assets/imgSongList/07-img-chiucachminhnoithua.jpg"
+    },
+    {
+      "id": "8",
+      "name": "Hình như ta thích nhau",
+      "singer": "Doãn Hiếu",
+      "time": "04:15",
+      "path": "../assets/songList/08-HinhNhuTaThichNhau-DoanHieuBMZ-8107565.mp3",
+      "image": "../assets/imgSongList/08-img-hinhnhutathichnhau.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Em xinh",
+      "singer": "Mono",
+      "time": "03:17",
+      "path": "../assets/songList/10-EmXinh-MONOOnionn-12581640.mp3",
+      "image": "../assets/imgSongList/10-img-emxinh.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Chúng ta của tương lai",
+      "singer": "MTP",
+      "time": "04:37",
+      "path": "../assets/songList/11-ChungTaCuaTuongLai-MTP.mp3",
+      "image": "../assets/imgSongList/11-img-chungtacuatuonglai.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Love scenario",
+      "singer": "IKON",
+      "time": "03:32",
+      "path": "../assets/songList/09-LoveScenario-iKON-6292220.mp3",
+      "image": "../assets/imgSongList/08-img-lovescenario.jpg"
+    },
+    {
+      "id": "12",
+      "name": "Có chắc yêu là đây",
+      "singer": "MTP",
+      "time": "03:36",
+      "path": "../assets/songList/12-CoChacYeuLaDay-MTP.mp3",
+      "image": "../assets/imgSongList/12-img-cochacyeuladay.jpg"
+    }
+  ]
+}
